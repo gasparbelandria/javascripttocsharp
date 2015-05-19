@@ -1,0 +1,71 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head>
+<script src="jquery.js" type="text/javascript"></script>
+<script src="ww.jquery.js" type="text/javascript"></script>
+<script src="http://ajax.cdnjs.com/ajax/libs/json2/20110223/json2.js"></script>
+<style type="text/css">
+body,td,th
+{
+	font-family: verdana;
+	font-size: 10pt;
+	margin: 0px;
+}
+.amazonItem
+{
+	border-bottom: dashed 1px steelblue;
+	padding: 10px;
+	padding-right: 30px;
+	height: 85px;
+}	
+.amazonItemHighlight
+{
+    background-color: transparent;
+	background-image: url(lightorangegradient.png);
+	background-repeat: repeat-x;
+	cursor: pointer;
+}
+.gridalternate
+{
+	background-color: cornsilk;
+}
+.amazonItem img
+{
+	border: none;
+}
+.imgContainer
+{
+	float: left;
+	width: 90px;
+	margin-left: 10px;
+}
+.content
+{
+	float: left;
+}
+</style>
+</head>
+<body>
+  <input type="text" id="txtMessage" />
+  <input type="button" value="Show Message" onclick="ShowWinFormsMessage()" />    
+<script type="text/javascript">	    
+   function JavascriptShowMessage(message)
+	  {
+	       alert(message);
+	  }
+  function ShowWinFormsMessage() {
+       var msg = [{
+		  "Name": "Apple",
+		  "Expiry": "2008-12-28T00:00:00",
+		  "Price": 3.99
+		},{
+		  "Name": "Pineaple",
+		  "Expiry": "2008-13-23T10:00:00",
+		  "Price": 5.99
+		}];
+		alert(JSON.stringify(msg))
+       return window.external.cShowMessage(JSON.stringify(msg));
+  }
+</script>
+</body>
+</html>

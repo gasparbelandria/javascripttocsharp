@@ -1,0 +1,98 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head>
+<script src="jquery.js" type="text/javascript"></script>
+<script src="ww.jquery.js" type="text/javascript"></script>
+<style type="text/css">
+body,td,th
+{
+	font-family: verdana;
+	font-size: 10pt;
+	margin: 0px;
+}
+.amazonItem
+{
+	border-bottom: dashed 1px steelblue;
+	padding: 10px;
+	padding-right: 30px;
+	height: 85px;
+}	
+.amazonItemHighlight
+{
+    background-color: transparent;
+	background-image: url(lightorangegradient.png);
+	background-repeat: repeat-x;
+	cursor: pointer;
+}
+.gridalternate
+{
+	background-color: cornsilk;
+}
+.amazonItem img
+{
+	border: none;
+}
+.imgContainer
+{
+	float: left;
+	width: 90px;
+	margin-left: 10px;
+}
+.content
+{
+	float: left;
+}
+</style>
+</head>
+<body>
+<%= pcContent %>
+
+<div id="modalDialog" style="width: 100px; height: 100px;">
+    <img id="loadingImg" src="loading.gif" />
+</div>
+<script type="text/javascript">	    
+    $(".amazonItem").hover( function() { $(this).pulse(700).addClass("amazonItemHighlight") },
+                            function() { $(this).stop().css("opacity",1).removeClass("amazonItemHighlight") });
+                        
+	$(".amazonItem").click( function(e) { 	    
+	    var img = $(this).find("img");
+	    img.animate( { width: img.width() * 1.30, height: img.height() * 1.30 },1500,"swing",
+                         function(e) { 
+			 	img.animate( { width: img.width() * .70, height: img.height() * .70 },1000,"swing");
+			 } );
+	    
+	    var el = $(this);
+
+        // navigate page - capture in VFP                
+        window.location = "vfps://SELECT/" + el.attr("id").replace("amazonitem_","") + "/"
+	});
+
+	$.fn.pulse = function(time) {
+	    if (!time)
+	        time = 2000;
+
+	    // this == jQuery object that contains selections
+	    this.fadeTo(time, 0.60,
+                function() {
+                    $(this).fadeTo(time, 1);
+                });
+	    return this;
+
+	}
+    function showoverlay(hide)
+    {
+        //var hide = arguments[0];
+    
+        if (!hide)
+            $("#modalDialog").modalDialog();
+        else
+            $("#modalDialog").modalDialog("hide");        
+    }
+    function hello()
+    {
+        alert("Hello Wor");
+        return "rick";
+    }
+</script>
+</body>
+</html>

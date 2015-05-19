@@ -1,0 +1,31 @@
+C:\Users\Doktordan\Downloads\WebBrowserScriptTest1\WebBrowserScriptTEst\bin\Debug\WebBrowserScriptTEst.exe.config
+C:\Users\Doktordan\Downloads\WebBrowserScriptTest1\WebBrowserScriptTEst\bin\Debug\WebBrowserScriptTEst.exe
+C:\Users\Doktordan\Downloads\WebBrowserScriptTest1\WebBrowserScriptTEst\bin\Debug\WebBrowserScriptTEst.pdb
+C:\Users\Doktordan\Downloads\WebBrowserScriptTest1\WebBrowserScriptTEst\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Doktordan\Downloads\WebBrowserScriptTest1\WebBrowserScriptTEst\obj\Debug\WebBrowserScriptTEst.Form1.resources
+C:\Users\Doktordan\Downloads\WebBrowserScriptTest1\WebBrowserScriptTEst\obj\Debug\WebBrowserScriptTEst.Properties.Resources.resources
+C:\Users\Doktordan\Downloads\WebBrowserScriptTest1\WebBrowserScriptTEst\obj\Debug\WebBrowserScriptTEst.csproj.GenerateResource.Cache
+C:\Users\Doktordan\Downloads\WebBrowserScriptTest1\WebBrowserScriptTEst\obj\Debug\WebBrowserScriptTEst.exe
+C:\Users\Doktordan\Downloads\WebBrowserScriptTest1\WebBrowserScriptTEst\obj\Debug\WebBrowserScriptTEst.pdb
+C:\Users\Doktordan\Downloads\WebBrowserScriptTest\WebBrowserScriptTEst\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Doktordan\Downloads\WebBrowserScriptTest\WebBrowserScriptTEst\obj\Debug\WebBrowserScriptTEst.Form1.resources
+C:\Users\Doktordan\Downloads\WebBrowserScriptTest\WebBrowserScriptTEst\obj\Debug\WebBrowserScriptTEst.Properties.Resources.resources
+C:\Users\Doktordan\Downloads\WebBrowserScriptTest\WebBrowserScriptTEst\obj\Debug\WebBrowserScriptTEst.csproj.GenerateResource.Cache
+C:\Users\Doktordan\Downloads\WebBrowserScriptTest\WebBrowserScriptTEst\bin\Debug\WebBrowserScriptTEst.exe.config
+C:\Users\Doktordan\Downloads\WebBrowserScriptTest\WebBrowserScriptTEst\bin\Debug\WebBrowserScriptTEst.exe
+C:\Users\Doktordan\Downloads\WebBrowserScriptTest\WebBrowserScriptTEst\bin\Debug\WebBrowserScriptTEst.pdb
+C:\Users\Doktordan\Downloads\WebBrowserScriptTest\WebBrowserScriptTEst\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Doktordan\Downloads\WebBrowserScriptTest\WebBrowserScriptTEst\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Doktordan\Downloads\WebBrowserScriptTest\WebBrowserScriptTEst\obj\Debug\WebBrowserScriptTEst.exe
+C:\Users\Doktordan\Downloads\WebBrowserScriptTest\WebBrowserScriptTEst\obj\Debug\WebBrowserScriptTEst.pdb
+C:\csharp\JScript to C# Json\bin\Debug\WebBrowserScriptTEst.exe.config
+C:\csharp\JScript to C# Json\bin\Debug\WebBrowserScriptTEst.exe
+C:\csharp\JScript to C# Json\bin\Debug\WebBrowserScriptTEst.pdb
+C:\csharp\JScript to C# Json\bin\Debug\Newtonsoft.Json.dll
+C:\csharp\JScript to C# Json\bin\Debug\Newtonsoft.Json.xml
+C:\csharp\JScript to C# Json\obj\Debug\ResolveAssemblyReference.cache
+C:\csharp\JScript to C# Json\obj\Debug\WebBrowserScriptTEst.Form1.resources
+C:\csharp\JScript to C# Json\obj\Debug\WebBrowserScriptTEst.Properties.Resources.resources
+C:\csharp\JScript to C# Json\obj\Debug\WebBrowserScriptTEst.csproj.GenerateResource.Cache
+C:\csharp\JScript to C# Json\obj\Debug\WebBrowserScriptTEst.exe
+C:\csharp\JScript to C# Json\obj\Debug\WebBrowserScriptTEst.pdb
