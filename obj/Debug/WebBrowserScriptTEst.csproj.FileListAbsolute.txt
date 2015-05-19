@@ -29,3 +29,14 @@ C:\csharp\JScript to C# Json\obj\Debug\WebBrowserScriptTEst.Properties.Resources
 C:\csharp\JScript to C# Json\obj\Debug\WebBrowserScriptTEst.csproj.GenerateResource.Cache
 C:\csharp\JScript to C# Json\obj\Debug\WebBrowserScriptTEst.exe
 C:\csharp\JScript to C# Json\obj\Debug\WebBrowserScriptTEst.pdb
+C:\csharp\javascripttocsharp\bin\Debug\WebBrowserScriptTEst.exe.config
+C:\csharp\javascripttocsharp\bin\Debug\WebBrowserScriptTEst.exe
+C:\csharp\javascripttocsharp\bin\Debug\WebBrowserScriptTEst.pdb
+C:\csharp\javascripttocsharp\bin\Debug\Newtonsoft.Json.dll
+C:\csharp\javascripttocsharp\bin\Debug\Newtonsoft.Json.xml
+C:\csharp\javascripttocsharp\obj\Debug\ResolveAssemblyReference.cache
+C:\csharp\javascripttocsharp\obj\Debug\WebBrowserScriptTEst.Form1.resources
+C:\csharp\javascripttocsharp\obj\Debug\WebBrowserScriptTEst.Properties.Resources.resources
+C:\csharp\javascripttocsharp\obj\Debug\WebBrowserScriptTEst.csproj.GenerateResource.Cache
+C:\csharp\javascripttocsharp\obj\Debug\WebBrowserScriptTEst.exe
+C:\csharp\javascripttocsharp\obj\Debug\WebBrowserScriptTEst.pdb
