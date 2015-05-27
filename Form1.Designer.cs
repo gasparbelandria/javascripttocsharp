@@ -17,6 +17,7 @@
             {
                 components.Dispose();
             	testing error 2
+            	new change
             }
             base.Dispose(disposing);
         }
