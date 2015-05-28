@@ -16,7 +16,7 @@
             if (disposing && (components != null))
             {
                 components.Dispose();
-                // comments ........ comments
+                // comments ..
             }
             base.Dispose(disposing);
         }
