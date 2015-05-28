@@ -16,5 +16,7 @@
 
 ##Development enviroment##
 
+##Architecture issues##
+
 
 
